@@ -1,0 +1,9 @@
+c:\users\veritas\documents\visual studio 2012\Projects\simpleflipssuccessrate\simpleflipssuccessrate\obj\Release\simpleflipssuccessrate.Form1.resources
+c:\users\veritas\documents\visual studio 2012\Projects\simpleflipssuccessrate\simpleflipssuccessrate\obj\Release\simpleflipssuccessrate.csproj.GenerateResource.Cache
+c:\users\veritas\documents\visual studio 2012\Projects\simpleflipssuccessrate\simpleflipssuccessrate\obj\Release\simpleflipssuccessrate.csprojResolveAssemblyReference.cache
+C:\Users\Veritas\documents\visual studio 2012\Projects\simpleflipssuccessrate\simpleflipssuccessrate\bin\Release\SuccessRate.exe.config
+C:\Users\Veritas\documents\visual studio 2012\Projects\simpleflipssuccessrate\simpleflipssuccessrate\bin\Release\SuccessRate.exe
+C:\Users\Veritas\documents\visual studio 2012\Projects\simpleflipssuccessrate\simpleflipssuccessrate\bin\Release\SuccessRate.pdb
+C:\Users\Veritas\documents\visual studio 2012\Projects\simpleflipssuccessrate\simpleflipssuccessrate\obj\Release\SuccessRate.Properties.Resources.resources
+C:\Users\Veritas\documents\visual studio 2012\Projects\simpleflipssuccessrate\simpleflipssuccessrate\obj\Release\SuccessRate.exe
+C:\Users\Veritas\documents\visual studio 2012\Projects\simpleflipssuccessrate\simpleflipssuccessrate\obj\Release\SuccessRate.pdb
